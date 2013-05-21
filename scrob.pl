@@ -67,6 +67,7 @@ $writer->endTag("lfm");
 $writer->end();
 $output->close();
 
+#ok
 =pod
 <?xml version='1.0' encoding='utf-8'?>
 <lfm status="ok">
